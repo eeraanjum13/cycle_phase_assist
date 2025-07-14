@@ -1,4 +1,4 @@
-````markdown
+
 # 🍃 Cycle-Aware Wellness POC
 
 A proof-of-concept that:
@@ -37,7 +37,7 @@ A proof-of-concept that:
 ```bash
 git clone https://github.com/your-username/cycle-aware-poc.git
 cd cycle-aware-poc
-````
+
 
 ### 2. Create & Activate Virtualenv
 
